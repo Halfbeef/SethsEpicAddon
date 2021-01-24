@@ -1,0 +1,6 @@
+## Interface: 90002
+## Title: Seth's Epic Addon
+## Notes: What the hell is going on?
+## Author: Seth Schutzkus
+## Version: 1.0.5
+main.lua
